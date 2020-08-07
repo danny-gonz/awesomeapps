@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/awesomeapps/static/css/main.5f361e03.chunk.css",
+    "main.js": "/awesomeapps/static/js/main.3834a14c.chunk.js",
+    "main.js.map": "/awesomeapps/static/js/main.3834a14c.chunk.js.map",
+    "runtime-main.js": "/awesomeapps/static/js/runtime-main.adace147.js",
+    "runtime-main.js.map": "/awesomeapps/static/js/runtime-main.adace147.js.map",
+    "static/js/2.ea177ec3.chunk.js": "/awesomeapps/static/js/2.ea177ec3.chunk.js",
+    "static/js/2.ea177ec3.chunk.js.map": "/awesomeapps/static/js/2.ea177ec3.chunk.js.map",
+    "index.html": "/awesomeapps/index.html",
+    "precache-manifest.7afa2838aa58ea09cc667c82abb9a430.js": "/awesomeapps/precache-manifest.7afa2838aa58ea09cc667c82abb9a430.js",
+    "service-worker.js": "/awesomeapps/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/awesomeapps/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ea177ec3.chunk.js.LICENSE.txt": "/awesomeapps/static/js/2.ea177ec3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/awesomeapps/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adace147.js",
+    "static/js/2.ea177ec3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3834a14c.chunk.js"
+  ]
+}
